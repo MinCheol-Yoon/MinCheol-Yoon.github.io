@@ -5,7 +5,7 @@ email: your-email@domain.com
 description: >
   The demo site for Mere Blog Theme, made for Jekyll and GitHub pages websites
 baseurl: 
-remote_theme: MinCheol-Yoon/mere-blog
+remote_theme: "chrisrhymes/mere-blog-theme"
 url: "https://www.csrhymes.com"
 permalink: pretty
 
