@@ -1,0 +1,6 @@
+--- 
+layout: post
+title: 나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리
+image: /img/home.jpg
+---
+
